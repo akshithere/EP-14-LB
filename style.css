@@ -8,7 +8,7 @@ text-align: center;
 .text{
     font-family: 'Baloo 2', cursive;
 font-family: 'IBM Plex Mono', monospace; 
-    font-weight: lighter;
+    font-weight:400;
     font-style: italic;
     line-height: 25px;
     /* font-size: 16px; */
@@ -21,4 +21,22 @@ h1{
     font-family: 'Baloo 2', cursive;
 font-family: 'IBM Plex Mono', monospace;
 font-family: 'Tiro Devanagari Hindi', serif;
+}
+#firstpara{
+
+color: #e02844;
+
+}
+#secondpara{
+
+color: rgb(127, 255, 212);
+
+}
+#thirdpara{
+
+    color: rgba(67, 186, 241, 0.9)
+
+}
+#footer{
+    color: hsla(355, 75%, 52%, 1);
 }
